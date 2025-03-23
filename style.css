@@ -1,0 +1,21 @@
+body{
+    background-color: aqua;
+    text-align: center;
+}
+
+#g{
+    width: 93px;
+    height: 33px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+}
+
+#g:hover{
+    background-color: blue;
+}
+
+#abc:hover{
+    background-color: blueviolet;
+}
+
